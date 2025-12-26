@@ -1,0 +1,23 @@
+[
+  {
+    "id": "loan_limit",
+    "title": "借阅权限与借书册数",
+    "keywords": ["借阅", "借书证", "册数", "权限"],
+    "answer": "登录馆员系统检查借阅权限组；学生默认可借 10 册 30 天，如有异常可在借阅系统重置权限。",
+    "references": ["https://library.example.edu/wiki/loan-policy"]
+  },
+  {
+    "id": "wifi",
+    "title": "图书馆 Wi-Fi 无法连接",
+    "keywords": ["wifi", "网络", "无法连接", "认证"],
+    "answer": "请在图书馆区域连接 LIBRARY-STAFF 网络并使用校园统一认证账号登录；如持续失败，收集 MAC 地址并联系网络中心。",
+    "references": ["https://library.example.edu/wiki/network"]
+  },
+  {
+    "id": "printer",
+    "title": "自助打印机卡纸或显示错误",
+    "keywords": ["打印", "卡纸", "自助", "设备"],
+    "answer": "尝试按照设备提示重新开关机；若卡纸仍在，请记录设备编号和报错代码后提交维修工单。",
+    "references": ["https://library.example.edu/wiki/printing"]
+  }
+]
